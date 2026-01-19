@@ -1,4 +1,4 @@
-# 📊 Association Rules Project (Apriori Algorithm)
+# 📊 market-basket-analysis Project (Apriori Algorithm)
 
 This project demonstrates the use of the **Apriori Algorithm** for **Association Rule Mining** to uncover hidden relationships between student study habits and academic performance.  
 It applies frequent itemset mining and generates rules evaluated by **support, confidence, and lift**.
@@ -50,4 +50,5 @@ Applying data mining concepts to real-world datasets
 
 Developed by Priyanshu Singh
 📧 Contact: hi.priyanshuu@gmail.com
+
 
