@@ -48,5 +48,6 @@ Applying data mining concepts to real-world datasets
 
 📌 Author
 
-Developed by Debdyuti Chakraborty
-📧 Contact: debdyuti.joy@gmail.com
+Developed by Priyanshu Singh
+📧 Contact: hi.priyanshuu@gmail.com
+
